@@ -1,2 +1,4 @@
 # Loan-status-prediction
-Loan status prediction using ml
+Overview
+
+This project predicts whether a loan application will be approved or not approved based on applicant details such as income, employment history, credit history, and other financial indicators.
